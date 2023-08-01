@@ -23,9 +23,9 @@ AetherSX2の公式サイトは[こちら](https://www.aethersx2.com/archive/?dir
 4. 一度retroarchを修了してからファイルマネージャーの右上にあるメニュー→[Show Hidden Files]で隠しファイルを表示させます  
    <img src="https://github.com/game-de-it/nanopi_r6s_c/blob/main/asset/sc-3.jpeg" width="500">  
 
-6. zipファイル解凍したフォルダ内にある[retroarch.cfg]ファイルをコピーします
+6. zipファイル解凍したフォルダ内にある[retroarch.cfg]ファイルを右クリックからコピーします
 7. [Home]→[.config]→[retroarch]フォルダ内で貼り付けしてretroarch.cfgファイルを上書き(replace)します  
-8. retroarchを起動して各種フォルダの設定をします
+8. 再度retroarchを起動して各種フォルダの設定をします
 - BIOSフォルダは[設定]→［ディレクトリ］→［システム/BIOS］で設定します
 - ROMフォルダは[設定]→［ディレクトリ］→[ファイルブラウザ]で設定します
   - ※セーブファイル、ステートセーブファイル、ステートセーブ時のスナップショットは実行中のromフォルダ内に自動的に保存される設定にしてあります
