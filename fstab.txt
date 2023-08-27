@@ -1,0 +1,1 @@
+/dev/nvme0n1p1 /media/pi/android exfat rw,nosuid,nodev,relatime,uid=1000,gid=1000,fmask=0022,dmask=0022,iocharset=utf8,errors=remount-ro,uhelper=udisks2 0 0
