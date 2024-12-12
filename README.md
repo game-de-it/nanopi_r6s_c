@@ -3,3 +3,4 @@ FriendryELEC社のSBC NanoPi [R6S](https://wiki.friendlyelec.com/wiki/index.php/
 公式OSイメージファイルは[こちら](https://drive.google.com/drive/folders/1FoBbP_nPkMehwBj4wHwsbRU-QGjEdeEP)から  
 # 目次  
 1. [R6S/C用のretroarchとAetherSX2のバイナリファイル](https://github.com/game-de-it/nanopi_r6s_c/blob/main/1_index.md)
+2. [RPCS3 for R6S/C](https://github.com/game-de-it/nanopi_r6s_c/releases/tag/NanoPi-R6S_ubuntu_noble_RPCS3_20141213)
